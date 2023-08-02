@@ -1,5 +1,5 @@
 {
-    "name": "beelab/tag-bundle",
+    "name": "zebratrois/tag-bundle",
     "type": "symfony-bundle",
     "description": "Provide tags for Doctrine entities in Symfony",
     "keywords": [
